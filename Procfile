@@ -1,1 +1,1 @@
-web: gunicorn cc.wasgi --log-file -
+web: gunicorn cc.wsgi --log-file -
