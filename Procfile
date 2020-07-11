@@ -1,0 +1,1 @@
+web: gunicorn ff.wasgi --log-file -
